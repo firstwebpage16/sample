@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>First Document</title>
+</head>	
+<body>
+	<header><h3>My First Web Page</h3></header>
+	<section><h2>BEST TV SHOWS FROM THE LAST DECADE</h2>
+		<article><h4>GAME OF THRONES</H4><br>
+			<img src="Gameofthrones.jpg" alt="HBO GOT logo"/><br>
+			<p><strong>Game of Thrones</strong> is an American fantasy drama television series created by David Benioff and D. B. Weiss for HBO. <br>It is an adaptation of A Song of Ice and Fire, <b>George R. R. Martin's</b> series of fantasy novels, the first of which is A Game of Thrones.</p>			
+		</article>
+		<article><h4>BREAKING BAD</h4><br>
+			<img src="Breakingbad.jpg" alt="Breaking bad image"/><br>
+			<p><strong>Breaking Bad</strong> is an American neo-Western crime drama television series created and produced by Vince Gilligan. The show aired on AMC from January 20, 2008 to September 29, 2013, consisting of five seasons for a total of 62 episodes. It was set and filmed in Albuquerque, New Mexico, and tells the story of Walter White (Bryan Cranston), an underemployed and depressed high school chemistry teacher who is struggling with a recent diagnosis of stage-three lung cancer.<br> White turns to a life of crime, partnering with his former student Jesse Pinkman (Aaron Paul), by producing and distributing crystallized methamphetamine to secure his family's financial future before he dies, while navigating the dangers of the criminal underworld. The title is a Southern colloquialism meaning to turn to a life of crime.[8] Gilligan characterized the series as showing Walter's transformation from a soft-spoken Mr. Chips into <i>Scarface</i>.</p>
+		</article>
+	</section>
+	<section><h2>TOP 5 BEST MOVIES OF ALL TIME</h2>
+		<article><h3>TOP 5</h3>
+			<ol>
+				<li><strong>BATMAN:THE DARK KNIGHT</strong></li>
+				<li>PULP FICTION</li>
+				<li>DJANGO:UNCHAINED</li>
+				<li>THE GODFATHER</li>
+				<li>JOKER</li>
+			</ol>
+		</article>
+	</section>
+	<footer><p><b>Source:</b><a href="https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjn9f2A_qnqAhWDm-AKHav2BHkQPAgH">Google</a></p>
+	</footer>
+</body>
+</html>
